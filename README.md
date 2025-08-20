@@ -48,11 +48,3 @@ Se puede actualizar un topico especificando el ID en el cuerpo JSON(Se muestra e
 
 ### Eliminar un tópico
 Se puede eliminar un tópico indicando el ID en la URL(Se muestra el código 204) 
-
-![Imágen eliminar tópico](https://github.com/ricardoramirezmora/challenge-foro-alura/blob/master/Eliminar%20Topico.jpg)
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ricardoramirezmora)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ramirez-mora/)
-
